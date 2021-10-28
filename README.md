@@ -4,8 +4,8 @@
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Ann-Katrin |  X  |  X  |  X  |    |  X  |    |    |    |    
 | Christina |    |    |    | evtl /  |    |    |    |    |    
-| Sabine |     |     |      |     |     |     |     |     |     
-| Anne |  X  |  X  |  X  |  X  |    |    |    |    |    
+| Sabine |  X   |     |      |     |     |     |     |     |     
+| Anne |    |  X  |  X  |  X  |    |    |    |    |    
 | Timo |  X  |    |  X  |    |  X  |    |    |    |    
 | Zippora |  X  |  X  |  X  |  X  |    |    |    |    |    
 | Rüdi |  X  |  /  |  X  |  X  |  X  |    |    |    |    
